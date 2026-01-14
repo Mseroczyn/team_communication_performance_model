@@ -43,9 +43,6 @@ The project is designed for **small datasets** where multiple transcripts may be
 - scikit-learn
 - Optuna
 - pandas, numpy, scipy
-
-If you use a `requirements.txt`, it will typically include packages like:
-
 - torch
 - transformers
 - optuna
@@ -75,7 +72,7 @@ data/transcripts/team_02_easy.txt
 
 ---
 
-## scores.csv format (IMPORTANT)
+## scores.csv format
 
 The `scores.csv` file must contain **one row per transcript file**.
 
